@@ -6,6 +6,8 @@ feature3
 nkinit
 feature4
 mainX
+fx
+fx2
 wahli
 dkjkj
 cava ou quoi ?
